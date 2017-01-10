@@ -6,13 +6,6 @@ Exploring unsupervised neural networks by implementing Restricted Boltzmann Mach
 3. Variational Autoencoder for  visualizing the latent hidden distribution for MNIST using a 2d and 20d hidden layer
 
 
-References for implementations
-http://deeplearning.net/tutorial 
+References for implementations: 
 
-https://deeplearning4j.org/restrictedboltzmannmachine
-
-https://arxiv.org/abs/1606.05908
-
-https://jmetzen.github.io/2015-11-27/vae.html
-
-https://jaan.io/what-is-variational-autoencoder-vae/
+http://deeplearning.net/tutorial, https://deeplearning4j.org/restrictedboltzmannmachine, https://arxiv.org/abs/1606.05908, https://jmetzen.github.io/2015-11-27/vae.html, https://jaan.io/what-is-variational-autoencoder-vae/
