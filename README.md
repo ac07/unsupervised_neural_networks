@@ -1,5 +1,5 @@
 # unsupervised_neural_networks
-Exploring unsupervised neural networks by implementing Restricted Boltzmann Machine and Variational Autoencoder. 
+Exploring unsupervised neural networks by examining the implementions of Restricted Boltzmann Machine and Variational Autoencoder. 
 
 1. Restricted Boltzmann Machine for Image Reconstruction using MNIST
 2. Restricted Boltzmann Machine for Collaborative Filtering using Grouplens
